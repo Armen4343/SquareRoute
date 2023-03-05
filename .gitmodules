@@ -1,0 +1,3 @@
+[submodule "Assets/Plugins/Creo"]
+	path = Assets/Plugins/Creo
+	url = https://github.com/Armen4343/Creo.git
